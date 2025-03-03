@@ -1,0 +1,37 @@
+KD Tree Unit Tests
+=================
+
+Running test_empty_tree...
+PASSED
+
+Running test_insert_and_search...
+PASSED
+
+Running test_nearest_neighbor_exact_match...
+PASSED
+
+Running test_nearest_neighbor_approximate...
+PASSED
+
+Running test_range_search...
+PASSED
+
+Running test_higher_dimensions...
+PASSED
+
+Running test_different_data_types...
+PASSED
+
+Running test_dimension_validation...
+PASSED
+
+Running test_large_dataset...
+PASSED
+
+
+Test Summary
+============
+Total Tests: 9
+Passed Tests: 9
+Failed Tests: 0
+Passed Assertions: 138
