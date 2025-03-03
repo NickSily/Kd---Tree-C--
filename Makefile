@@ -3,3 +3,4 @@ build_run_main:
 
 test:
 	g++ -std=c++14 -Werror -Wuninitialized -o bin/test test-unit/test.cpp && ./bin/test
+
